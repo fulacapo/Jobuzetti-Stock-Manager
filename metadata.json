@@ -1,0 +1,5 @@
+{
+  "name": "Jobuzetti Stock Manager",
+  "description": "Sistema de gestión de stock, pedidos y catálogo digital para autopartes Jobuzetti.",
+  "requestFramePermissions": []
+}
