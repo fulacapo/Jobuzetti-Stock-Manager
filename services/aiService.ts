@@ -5,7 +5,7 @@ import { GoogleGenAI } from "@google/genai";
 // ==========================================
 
 // NOTE: This key is specifically authorized for the Chat Service.
-const API_KEY = "AIzaSyDCDSSXScBLOlfYBXGyGRZsYA-GFo8OGLU";
+const API_KEY = "*****";
 const MODEL_NAME = 'gemini-2.5-flash';
 
 // ==========================================
